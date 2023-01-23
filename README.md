@@ -16,5 +16,8 @@ Esta aplicación ha sido desarrollada por Carles Trujillo, Andrés Rojas y Alber
 El proyecto consiste en una app hecha en Kotlin para Android.
 
 Descarga la app aqui:
+<a href="https://play.google.com/store/apps/details?id=cat.copernic.fpshare&hl=es">
+  <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/playstore.png" width="200" height="300">
+ </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
