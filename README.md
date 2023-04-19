@@ -18,7 +18,7 @@ El proyecto consiste en una app hecha en Kotlin para Android.
  
  Capturas de la app:
  </p>
- <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/PantallaPrincipal.jpeg" width="200" height="400">
+ <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/loginERP.PNG" width="200" height="400">
  
  </p>
  <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/NuevaPublicacion.jpeg" width="200" height="400">
