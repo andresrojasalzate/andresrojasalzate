@@ -10,11 +10,11 @@ Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma
 # 👨‍💻 Mi ultimo proyecto:
 # [CantinaCopernic](https://github.com/andresrojasalzate/CantinaCopernic)
 
-Aplicación para compartir apuntes para estudiantes de Formación Profesional de informática en España.
+ERP para gestionar la venta, compra y producción de bocadillos los viernes, organizado por un grupo de alumnos.
 
-Esta aplicación ha sido desarrollada por Carles Trujillo, Andrés Rojas y Albert Montero, estudiantes de grado superior de Desarrollo de Aplicaciones Multiplataforma en el centro academico, Nicolau Copernic de Terrassa, Barcelona.
+Esta aplicación ha sido desarrollada por Marcos López Salvador, Jose Antonio Bermudo Olea, Enric Ledo Muntal y Andrés Rojas Alzate. Estudiantes de grado superior de Desarrollo de Aplicaciones Multiplataforma en el centro academico, Nicolau Copernic de Terrassa, Barcelona.
 
-El proyecto consiste en una app hecha en Kotlin para Android.
+
  
  Capturas de la app:
  </p>
