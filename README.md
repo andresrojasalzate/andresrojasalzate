@@ -1,4 +1,4 @@
-### hola, mi nombre es Andrés 👋
+### Hola, mi nombre es Andrés 👋
 
 # 💫 Sobre mi:
 Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma
