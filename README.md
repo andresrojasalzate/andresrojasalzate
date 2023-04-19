@@ -27,7 +27,7 @@ El proyecto consiste en una app hecha en Kotlin para Android.
  
 </p>
 
-## [Memoria del proyecto](https://drive.google.com/file/d/1X3bJu6tq1YR_5dDwwtwmH4dNb5tnwr65/view?usp=sharing)
+## [Memoria del proyecto](https://drive.google.com/file/d/12lmsWI7QVto3Ii4oe3xlXALhGZ5mTUKo/view?usp=sharing)
 
 
 ## [Video demo de la app](https://drive.google.com/file/d/174-GitmruHhWjDBNgWJWyMM7KLkEYI_Q/view?usp=sharing)
