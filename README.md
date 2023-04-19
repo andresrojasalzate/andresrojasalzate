@@ -14,13 +14,6 @@ Aplicación para compartir apuntes para estudiantes de Formación Profesional de
 Esta aplicación ha sido desarrollada por Carles Trujillo, Andrés Rojas y Albert Montero, estudiantes de grado superior de Desarrollo de Aplicaciones Multiplataforma en el centro academico, Nicolau Copernic de Terrassa, Barcelona.
 
 El proyecto consiste en una app hecha en Kotlin para Android.
-
-Descarga la app aqui:
-</p>
-<a href="https://play.google.com/store/apps/details?id=cat.copernic.fpshare&hl=es">
-  <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/playstore.png" width="200" height="300">
- </a>
- </p>
  
  Capturas de la app:
  </p>
