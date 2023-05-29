@@ -16,9 +16,9 @@ VideoJuego de puzzles, estrategia, supervivencia que incluye shooter donde tendr
 
 
  
- Capturas de la app:
+ Capturas de los videojuegos:
  </p>
- <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/loginERP.PNG" width="600" height="400">
+ <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/img1.PNG" width="600" height="400">
  
  </p>
  <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/listaProfesores.PNG" width="600" height="400">
