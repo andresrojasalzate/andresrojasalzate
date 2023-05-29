@@ -10,7 +10,7 @@ Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma
  <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/unity.png" width="35" height="35">
  <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/c%23.png" width="40" height="40">
 # 👨‍💻 Mi ultimo proyecto:
-# [Escape From Nowhere](https://github.com/andresrojasalzate/CantinaCopernic)
+# [Escape From Nowhere](https://drive.google.com/drive/folders/1qUhpotphFEOp5Cm2SN_HRdYdHaZsQfgQ?usp=sharing)
 
 VideoJuego de puzzles, estrategia, supervivencia que incluye shooter donde tendremos que conseguir salir de una isla donde hemos sido secuestrados, mientras escapamos de nuestros secuestradores y otros peligros.
 
