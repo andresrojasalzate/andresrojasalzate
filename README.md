@@ -21,7 +21,7 @@ VideoJuego de puzzles, estrategia, supervivencia que incluye shooter donde tendr
  <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/img1.PNG" width="600" height="400">
  
  </p>
- <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/listaProfesores.PNG" width="600" height="400">
+ <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/img2.PNG" width="600" height="400">
 
 </p>
 
