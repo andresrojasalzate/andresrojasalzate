@@ -12,7 +12,7 @@ Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma
 # 👨‍💻 Mi ultimo proyecto:
 # [Escape From Nowhere](https://github.com/andresrojasalzate/CantinaCopernic)
 
-Juego de puzzles, estrategia, supervivencia que incluye shooter donde tendremos que conseguir salir de una isla donde hemos sido secuestrados, mientras escapamos de nuestros secuestradores y otros peligros.
+VideoJuego de puzzles, estrategia, supervivencia que incluye shooter donde tendremos que conseguir salir de una isla donde hemos sido secuestrados, mientras escapamos de nuestros secuestradores y otros peligros.
 
 
  
