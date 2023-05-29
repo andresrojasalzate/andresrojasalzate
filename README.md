@@ -10,7 +10,7 @@ Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma
  <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/unity.png" width="35" height="35">
  <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/c%23.png" width="40" height="40">
 # 👨‍💻 Mi ultimo proyecto:
-# [CantinaCopernic](https://github.com/andresrojasalzate/CantinaCopernic)
+# [Lost in Nonewhere](https://github.com/andresrojasalzate/CantinaCopernic)
 
 ERP para gestionar la venta, compra y producción de bocadillos los viernes, organizado por un grupo de alumnos.
 
