@@ -28,7 +28,7 @@ VideoJuego de puzzles, estrategia, supervivencia que incluye shooter donde tendr
  
 </p>
 
-## [Memoria del proyecto](https://drive.google.com/file/d/12lmsWI7QVto3Ii4oe3xlXALhGZ5mTUKo/view?usp=sharing)
+## [Memoria del proyecto](https://drive.google.com/file/d/1Tt86i05zrMPc6pLB9KK-q2Nqc7nh8njp/view?usp=sharing)
 
 
 ## [Video demo de la app](https://drive.google.com/file/d/1d9kWRrRoEoxWOyk2F0PNbE0JDrxMq9Mh/view?usp=sharing)
