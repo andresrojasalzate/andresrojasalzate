@@ -12,9 +12,7 @@ Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma
 # 👨‍💻 Mi ultimo proyecto:
 # [Escape From Nowhere](https://github.com/andresrojasalzate/CantinaCopernic)
 
-ERP para gestionar la venta, compra y producción de bocadillos los viernes, organizado por un grupo de alumnos.
-
-Esta aplicación ha sido desarrollada por Marcos López Salvador, Jose Antonio Bermudo Olea, Enric Ledo Muntal y Andrés Rojas Alzate. Estudiantes de grado superior de Desarrollo de Aplicaciones Multiplataforma en el centro academico, Nicolau Copernic de Terrassa, Barcelona.
+Juego de puzzles, estrategia, supervivencia que incluye shooter donde tendremos que conseguir salir de una isla donde hemos sido secuestrados, mientras escapamos de nuestros secuestradores y otros peligros.
 
 
  
@@ -36,4 +34,4 @@ Esta aplicación ha sido desarrollada por Marcos López Salvador, Jose Antonio B
 ## [Video demo de la app](https://drive.google.com/file/d/1d9kWRrRoEoxWOyk2F0PNbE0JDrxMq9Mh/view?usp=sharing)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
