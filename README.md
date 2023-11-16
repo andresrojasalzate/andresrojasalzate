@@ -12,7 +12,7 @@ Actualmente estoy estudiando Desarrollo de Aplicaciones Web
 # 👨‍💻 Mi ultimo proyecto:
 # [Slides](https://github.com/andresrojasalzate/Slides)
 
-Aplicación web para crear presentacione.
+Aplicación web para crear presentaciones.
 
 
  
