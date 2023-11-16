@@ -1,7 +1,7 @@
 ### Hola, mi nombre es Andrés 👋
 
 # 💫 Sobre mi:
-Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma
+Actualmente estoy estudiando Desarrollo de Aplicaciones Web
 
 
 # 💻 Mis conocimientos:
@@ -10,28 +10,20 @@ Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma
  <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/unity.png" width="35" height="35">
  <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/c%23.png" width="40" height="40">
 # 👨‍💻 Mi ultimo proyecto:
-# [Escape From Nowhere](https://drive.google.com/drive/folders/1qUhpotphFEOp5Cm2SN_HRdYdHaZsQfgQ?usp=sharing)
+# [Slides](https://github.com/andresrojasalzate/Slides)
 
-VideoJuego de puzzles, estrategia, supervivencia que incluye shooter donde tendremos que conseguir salir de una isla donde hemos sido secuestrados, mientras escapamos de nuestros secuestradores y otros peligros.
+Aplicación web para crear presentacione.
 
 
  
- Capturas de los videojuegos:
+ Capturas de la aplicación:
+ <p>
+ <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/pantallas/home.PNG" width="600" height="400">
  </p>
- <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/img1.PNG" width="600" height="400">
- 
+ <p>
+ <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/pantallas/crear-presentacion.PNG" width="600" height="400">
  </p>
- <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/img2.PNG" width="600" height="400">
-
-</p>
-
- 
-</p>
-
-## [Memoria del proyecto](https://drive.google.com/file/d/1Tt86i05zrMPc6pLB9KK-q2Nqc7nh8njp/view?usp=sharing)
-
-
-## [Video demo de la app](https://drive.google.com/file/d/1ChGq2ARyX-uRGZ3h44KM07cjc1gqae7b/view?usp=sharing)
-
-
+ <p>
+ <img src="https://github.com/andresrojasalzate/andresrojasalzate/blob/main/pantallas/diapositiva-titulo.PNG" width="600" height="400">
+ </p>
 
